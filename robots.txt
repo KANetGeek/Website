@@ -1,1 +1,1 @@
-Sitemap: https://KANetGeek.github.io/Website-files/sitemap.xml
+Sitemap: https://KAnetgeek.github.io/sitemap.xml
