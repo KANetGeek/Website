@@ -1,23 +1,71 @@
 project:
   type: website
+  output-dir: _site
+  resources:
+    - "files/"
 
 website:
-  site-url: https://KAnetgeek.github.io/Website
-  repo-url: https://github.com/KAnetgeek/Website
-  title: "Kate Albrecht, Ph.D."
+  title: "Kate Albrecht"
+  description: "Assistant Professor of Public Policy, Management & Analytics, University of Illinois Chicago"
+  site-url: https://KAnetgeek.github.io/albrecht-website
+  repo-url: https://github.com/KAnetgeek/albrecht-website
+  repo-actions: [edit, issue]
+  page-navigation: true
+  back-to-top-navigation: true
+
   navbar:
+    pinned: true
+    background: light
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: "mailto:kalbrech@uic.edu"
+        aria-label: Email
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=WHqouCQAAAAJ&hl=en"
+        aria-label: Google Scholar
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0002-7765-6986"
+        aria-label: ORCID
+      - icon: github
+        href: "https://github.com/KAnetgeek"
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Kate Albrecht"
+    center: "Last updated: {{< meta date-modified >}}"
+    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light: [cosmo, theme.scss]
     toc: true
+    toc-depth: 3
+    toc-location: right
+    fontsize: 1rem
+    linestretch: 1.6
+    anchor-sections: true
+    smooth-scroll: true
+    grid:
+      sidebar-width: 220px
+      body-width: 820px
+      margin-width: 220px
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet">
 
-editor: visual
+bibliography: references.bib
+csl: apa.csl
+google-scholar: true
 

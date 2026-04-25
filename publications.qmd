@@ -1,0 +1,17 @@
+---
+title: "Publications"
+date-modified: today
+toc: false
+bibliography: references.bib
+csl: apa.csl
+nocite: |
+  @*
+---
+
+A complete record of peer-reviewed articles, book chapters, and research reports. This page is generated automatically from a [BibTeX file](references.bib) maintained in Zotero.
+
+My Google Scholar profile: <https://scholar.google.com/citations?user=WHqouCQAAAAJ&hl=en>
+
+My ORCID: <https://orcid.org/0000-0002-7765-6986>
+
+## References

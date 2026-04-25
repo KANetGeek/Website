@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Website files",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A complete record of peer-reviewed articles, book chapters, and research reports. This page is generated automatically from a BibTeX file maintained in Zotero.\nMy Google Scholar profile: https://scholar.google.com/citations?user=WHqouCQAAAAJ&hl=en\nMy ORCid: https://orcid.org/0000-0002-7765-6986"
+  },
+  {
+    "objectID": "publications.html#references",
+    "href": "publications.html#references",
+    "title": "Publications",
+    "section": "References",
+    "text": "References"
   }
 ]
