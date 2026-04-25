@@ -11,12 +11,12 @@ Drinking water provision in Illinois is a deeply fragmented governance system. H
 
 The work proceeds in three connected directions. **Rate-setting and affordability research** documents how water rates are set across Illinois, identifies institutional drivers of disparate burden, and produces actionable findings for municipal decision-makers and state oversight agencies. **Governance and collaboration research** examines the fiscal and institutional determinants of municipal participation in regional water institutions, the punctuations and frictions that disrupt collaborative water governance, and the networked supply chains that move Lake Michigan water across the region. **Affordability action planning**, conducted with municipal partners, translates findings into context-specific affordability strategies for Illinois communities.
 
-This program has produced more than $769,000 in funded research, three major rate-setting reports covering distinct service regions of Illinois, peer-reviewed publications on fiscal institutions and racial equity in water pricing, and direct engagement with municipal partners.
+This program has produced more than \$769,000 in funded research, three major rate-setting reports covering distinct service regions of Illinois, peer-reviewed publications on fiscal institutions and racial equity in water pricing, and direct engagement with municipal partners.
 
 ## Funding
 
-- UIC Government Finance Research Center, with the Illinois Office of Management and Budget, 2022–2025 (Co-PI). *Water Rate Study.* $769,000.
-- Illinois Innovation Network, 2020–2021 (Co-PI). *Sustaining Illinois through Collaborative Governance: A Pilot Study of Water Systems Governance in Northeast and North Central Illinois.* $30,000.
+- UIC Government Finance Research Center, with the Illinois Office of Management and Budget, 2022–2025 (Co-PI). *Water Rate Study.* \$769,000.
+- Illinois Innovation Network, 2020–2021 (Co-PI). *Sustaining Illinois through Collaborative Governance: A Pilot Study of Water Systems Governance in Northeast and North Central Illinois.* \$30,000.
 
 ## Selected Works
 
@@ -36,8 +36,4 @@ This program has produced more than $769,000 in funded research, three major rat
 ## Recognition
 
 - 2022 E-PARCC Teaching Simulation Award, Maxwell School, Syracuse University. Albrecht & Michnick, "Water for you and me, or water for us? Regional collaboration in drinking water systems."
-
-## Collaborators
-
-Deborah Carroll, Laura Medwid, Christelle Khalaf (UIC Government Finance Research Center); Tom Skuzinski (Virginia Tech); Jason Michnick, Dan Huang, Jun Li (UIC).
 

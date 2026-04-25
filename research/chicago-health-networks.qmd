@@ -29,6 +29,4 @@ The project sits at the intersection of three concerns: the theoretical question
 - Shumate, M., Zehra, M. E., & Albrecht, K. (2026). *Sustaining Healthy Cities Through Collaboration: Insights from Toolkits for Purpose-Oriented Networks.* Urban Affairs Association Conference, Chicago, IL.
 - Lal, Y., Zhang, S., & Albrecht, K. (2024). *Unveiling the Bridge Builders: Exploring Distinctive Traits of Bridging Nonprofits in Public Health Network Domains.* Association for Research on Nonprofit and Voluntary Action Conference, Washington, D.C.
 
-## Collaborators
-
-Sibel Bozdoğan Zhang, Mashal-E-Zehra, Yamini Lal (UIC Networks and Governance Lab); Michelle Shumate (Northwestern University).
+ 
