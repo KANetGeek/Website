@@ -1,5 +1,43 @@
 ---
-title: "water-goverance"
-format: html
+title: "Drinking Water Governance"
+description: "How fragmented systems of drinking water provision shape affordability, equity, and regional collaboration across Illinois."
+date: 2025-03-01
+categories: [networks, water, Illinois, governance]
 ---
+
+## Overview
+
+Drinking water provision in Illinois is a deeply fragmented governance system. Hundreds of municipal and special-purpose water authorities purchase, treat, and distribute water through overlapping interlocal agreements, each setting its own rates, capital plans, and affordability policies. This project examines how that fragmentation shapes outcomes — for ratepayers, for racial equity, and for regional collaborative capacity.
+
+The work proceeds in three connected directions. **Rate-setting and affordability research** documents how water rates are set across Illinois, identifies institutional drivers of disparate burden, and produces actionable findings for municipal decision-makers and state oversight agencies. **Governance and collaboration research** examines the fiscal and institutional determinants of municipal participation in regional water institutions, the punctuations and frictions that disrupt collaborative water governance, and the networked supply chains that move Lake Michigan water across the region. **Affordability action planning**, conducted with municipal partners, translates findings into context-specific affordability strategies for Illinois communities.
+
+This program has produced more than $769,000 in funded research, three major rate-setting reports covering distinct service regions of Illinois, peer-reviewed publications on fiscal institutions and racial equity in water pricing, and direct engagement with municipal partners.
+
+## Funding
+
+- UIC Government Finance Research Center, with the Illinois Office of Management and Budget, 2022–2025 (Co-PI). *Water Rate Study.* $769,000.
+- Illinois Innovation Network, 2020–2021 (Co-PI). *Sustaining Illinois through Collaborative Governance: A Pilot Study of Water Systems Governance in Northeast and North Central Illinois.* $30,000.
+
+## Selected Works
+
+**Peer-reviewed articles**
+
+- Litvak, E., Groffman, P. M., Vörösmarty, C. J., Stoler, J. B., Albrecht, K., Bixler, R. P., & Famiglietti, J. S. (2026). Advancing a transdisciplinary approach for a paradigm shift in water management in US cities. *Environmental Research: Water*, 2(1), 013001.
+- Medwid, L., Albrecht, K., Carroll, D. A., Khalaf, C., Huang, D., Li, J., Michnick, J., & Zoh, D. (2026). Investigating residential drinking water bills across small and medium-sized municipal systems. *Utilities Policy*, 99, 102138.
+- Medwid, L., Huang, D., Carroll, D. A., Khalaf, C., Albrecht, K., & Li, J. (2025). The hidden household water affordability burden: An examination of municipal ordinances and racial equity. *American Review of Public Administration*, 55(5), 456–471.
+- Albrecht, K., Carroll, D. A., Kass, A., Michnick, J., & Wetmore, B. (2024). Fiscal institutions and racial equity: Determining the price of water. *Public Budgeting & Finance*, 44, 45–68.
+
+**Reports**
+
+- Albrecht, K., Battogtokh, G., Goyal, D., Moreira, M. L., & Xia, W. (2025). *Water Affordability Action Plan: Village of Lynwood, Illinois.* Government Finance Research Center.
+- Carroll, D. A., Albrecht, K., Medwid, L., Khalaf, C., Huang, D., Senthilkumar, A., Zoh, D., Bonifant, J., & Avelar, D. (2024). *Water Rate Setting in Northwestern, Central, and Southern Illinois.* Government Finance Research Center.
+- Carroll, D. A., Albrecht, K., Medwid, L., Khalaf, C., Michnick, J., Huang, D., & Li, J. (2023). *Water Rate Setting in the Lake Michigan Service Area.* Government Finance Research Center.
+
+## Recognition
+
+- 2022 E-PARCC Teaching Simulation Award, Maxwell School, Syracuse University. Albrecht & Michnick, "Water for you and me, or water for us? Regional collaboration in drinking water systems."
+
+## Collaborators
+
+Deborah Carroll, Laura Medwid, Christelle Khalaf (UIC Government Finance Research Center); Tom Skuzinski (Virginia Tech); Jason Michnick, Dan Huang, Jun Li (UIC).
 

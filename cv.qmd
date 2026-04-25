@@ -1,0 +1,47 @@
+---
+title: "Curriculum Vitae"
+date-modified: today
+toc: false
+---
+
+[**Download the full CV (PDF)**](files/cv/albrecht-cv.pdf){.btn .btn-outline-primary}
+
+## Education
+
+**Ph.D., Public Administration** — North Carolina State University, 2019
+
+**M.P.A., Public Administration** — North Carolina State University, 2016
+
+**B.S., Communications** — University of Miami, 2006
+
+## Current Position
+
+**Assistant Professor**, Department of Public Policy, Management, and Analytics
+
+University of Illinois Chicago, 2019–present
+
+## Selected Recent Publications
+
+A complete list is on the [publications page](publications.qmd). Recent highlights include peer-reviewed work in *Public Management Review*, *American Review of Public Administration*, *Public Budgeting & Finance*, *Utilities Policy*, and *Environmental Research: Water*, alongside book chapters in handbooks published by Edward Elgar and SAGE.
+
+## Selected Awards
+
+- 2025 UIC Innovative Online Course Design Award
+- 2022 E-PARCC Teaching Simulation Award, Maxwell School, Syracuse University
+- 2021 Charles Levine Best Paper Award, Academy of Management, Public-Nonprofit Division
+- 2019 Volker Junior Scholar Research Award, American Political Science Association
+
+## Selected Funding
+
+- 2025–2030 (under review). NSF CAREER (PI). *Decision-Making and Risk Assessment in Purpose-Oriented Networks.* $527,000.
+- 2026 (PI). Volker Alliance Accountability & Reform Research Consortium. *Federal Funding Disruption in Chicago's Health Services Ecosystem.* $5,000.
+- 2022–2025 (Co-PI). UIC Government Finance Research Center, with Illinois Office of Management and Budget. *Water Rate Study.* $769,000.
+- 2024–2025 (PI). Institute for Policy and Civic Engagement Research Award. *Empowering Purpose-Oriented Network Leaders and Funders for Sustainable Community Engagement.* $19,000.
+
+## Service
+
+**Association leadership.** Vice Chair, ASPA Section on Complexity & Network Studies (2026–2029); Conference Program Committee, PMRC 2026; Conference Program Committee, ARNOVA 2025; Doctoral Consortium Co-Chair, Academy of Management Public-Nonprofit Division (2022–2024).
+
+**Editorship.** Associate Editor, *Complexity, Governance and Networks* (2021–present).
+
+**Peer review.** *Journal of Public Administration Research and Theory*, *Public Administration Review*, *Nonprofit and Voluntary Sector Quarterly*, *International Public Management Journal*, *State and Local Government Review*, and others.
