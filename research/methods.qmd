@@ -1,0 +1,33 @@
+---
+title: "Methods"
+description: "Methodological scholarship on qualitative rigor, network analysis, and configurational research."
+date: 2024-12-01
+categories: [methods, qualitative, networks, QCA]
+---
+
+## Overview
+
+A consistent thread across my work is methodological development — building tools and standards for the kinds of inquiry that public management and network research require. This includes scholarship on qualitative rigor, longitudinal network analysis, qualitative comparative analysis (QCA), inductive survey research, and network boundary specification in complex problem domains. The work spans peer-reviewed methodological articles, edited volume contributions, and supplemental teaching materials made openly available for other scholars.
+
+## Selected methodological scholarship
+
+**Peer-reviewed articles**
+
+- Nowell, B., & Albrecht, K. (2019). A reviewer's guide to qualitative rigor. *Journal of Public Administration Research and Theory*, 29(2), 348–363.
+- Nowell, B., Velez, A.-L. K., Hano, M. C., Sudweeks, J., Albrecht, K., & Steelman, T. (2018). Studying networks in complex problem domains: Advancing methods in boundary specification. *Perspectives on Public Management and Governance*, 1(4), 273–282.
+- Albrecht, K. (2022). Shapeshifting to address complexity: Advancing a typology of network evolution and transformation. *Complexity, Governance, & Networks*, 8(1), 25–40.
+
+**Book chapters**
+
+- Albrecht, K., & Archibold, E. (2023). Inductive survey research. In L. R. Ford & T. A. (Eds.), *The SAGE Handbook of Survey Development and Application* (pp. 93–108). SAGE Publications.
+
+## Open teaching and research materials
+
+- **Qualitative Comparative Analysis Tutorial.** Online synchronous course, lab exercises, and archived materials providing an overview of the logic and use of QCA in R.
+- Albrecht, K. (2021). *Longitudinal Network Analysis with RSiena.* Online supplement in Garson, D. G., *Data Analytics for the Social Sciences: Applications in R.* Routledge.
+
+## Conference and invited methodological work
+
+- Albrecht, K., Koliba, C. J., Lemaire, R. H., & Zia, A. (2025). *Keeping the Researcher in Research: Frontiers in Complexity and Network Methods.* American Society of Public Administration Annual Conference, Washington, DC.
+- University of Kentucky (2025). *Network Domains and the Evolution of Purpose-Oriented Networks: Configurational Pathways of Survival, Death, and Transformation.* Invited PhD seminar.
+- Institutional Grammar Research Institute Seminar Series (2022). Hosted by Syracuse University, NY.

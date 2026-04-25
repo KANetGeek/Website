@@ -1,0 +1,18 @@
+---
+title: "Research"
+listing:
+  contents: research
+  type: default
+  sort: "date desc"
+  categories: numbered
+  fields: [title, description, categories, date]
+  date-format: "MMMM YYYY"
+  page-size: 10
+toc: false
+---
+
+My research examines how purpose-oriented networks — coalitions of public, nonprofit, and private organizations convened to address shared problems — form, evolve, and produce outcomes. Empirically, this work spans health service delivery in Chicago and Cook County and drinking water governance across Illinois. Theoretically, the work develops accounts of how networks adapt to environmental change, what shapes their resilience, and how purpose connects to outcome. Methodologically, I contribute to standards and tools for qualitative rigor, longitudinal network analysis, and configurational research.
+
+The work is supported by funding from the National Science Foundation (under review), the Volker Alliance, the Illinois Office of Management and Budget, the Illinois Innovation Network, and several internal UIC awards, and is conducted in collaboration with an international network of public administration and network science scholars.
+
+Active programs:

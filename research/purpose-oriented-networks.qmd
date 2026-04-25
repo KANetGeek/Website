@@ -1,0 +1,37 @@
+---
+title: "Purpose-Oriented Networks"
+description: "A theoretical and empirical program examining how networks convened to address shared problems form, evolve, and produce outcomes."
+date: 2025-06-01
+categories: [networks, theory, public management]
+---
+
+## Overview
+
+Purpose-oriented networks — coalitions of public, nonprofit, and private organizations convened to address shared problems — are the through-line of my scholarship. This program of work develops theoretical accounts of how such networks form and evolve, builds empirical evidence about what shapes their performance and survival, and contributes methodological tools for studying them.
+
+Substantively, the work spans three connected questions. The first concerns the relationship between networks and their environments: how environmental conditions select for some network forms over others, how network domains evolve as ecological populations, and how context mechanisms shape network design and behavior. The second concerns network resilience: what configurational pathways allow networks to survive, what structural and functional antecedents predict adaptation, and how networks govern themselves under crisis. The third concerns the connections between purpose, process, and outcome: how logic-model dynamics translate network activities into substantive impact, and how strategic convening builds collective capacity.
+
+This program is conducted in close collaboration with an international community of network scholars, including the Purpose-Oriented Network Research Group (Raab, Sánchez, Nowell, Kapucu, Milward, Shumate, Tantardini), and produces both peer-reviewed scholarship and applied toolkits for practitioners.
+
+## Selected Works
+
+**Peer-reviewed articles**
+
+- Nowell, B., & Albrecht, K. (2024). Purpose-oriented networks and their environment: A population ecology of network domains. *Public Management Review*, 26(8), 2218–2241.
+- Albrecht, K. (2022). Shapeshifting to address complexity: Advancing a typology of network evolution and transformation. *Complexity, Governance, & Networks*, 8(1), 25–40.
+- Nowell, B., Steelman, T., Velez, A.-L., & Albrecht, K. (2022). Co-management during crisis: Insights from jurisdictionally complex wildfires. *International Journal of Wildland Fire*, 31(5), 529–544.
+
+**Under review**
+
+- Lemaire, R., Hu, Q., Lee, J., & Albrecht, K. *Managing Purpose-Oriented Network Resilience: A Multilayer Conceptualization.* Under review at *Public Administration Review.*
+- Albrecht, K. *Equifinality in a Network Domain: Configurational Pathways to Purpose-Oriented Network Survival.* Under review at *Public Administration.*
+- Albrecht, K., Raab, J., Sánchez, J., Nowell, B., Kapucu, N., Milward, B., & Shumate, M. *How the Forest Shapes the Trees: Context Mechanisms and Purpose-Oriented Networks.* Under review at *International Public Management Journal.*
+- Miles, J. P., Medina, A., Albrecht, K., Zehra, M. E., Kim, Y., Siciliano, M., & Shumate, M. *Encoding Purpose: Logic Model Dynamics of Purpose-Oriented Networks' Processes, Activities, Outputs, and Outcomes.* Under review at *International Public Management Journal.*
+
+## Recognition
+
+- 2021 Charles Levine Best Paper Award, Academy of Management, Public-Nonprofit Division. Nowell & Albrecht, "Purpose-oriented Networks and their Environment: A Population Ecology of Network Domains."
+
+## Collaborators
+
+Branda Nowell (NC State University), Robin Lemaire (Virginia Tech), Jörg Raab (Tilburg University), Juliana Sánchez, Naim Kapucu (UCF), Brint Milward (University of Arizona), Michelle Shumate (Northwestern University), Michael Siciliano (UIC), and others.
