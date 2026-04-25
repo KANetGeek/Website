@@ -2,7 +2,9 @@ project:
   type: website
 
 website:
-  title: "Website files"
+  site-url: https://KAnetgeek.github.io/Website
+  repo-url: https://github.com/KAnetgeek/Website
+  title: "Kate Albrecht, Ph.D."
   navbar:
     left:
       - href: index.qmd
