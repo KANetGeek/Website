@@ -1,4 +1,4 @@
 - source: project
   gh-pages:
-    - id: <leave-the-existing-id-string>
-      url: https://KAnetgeek.github.io
+    - id: site
+      url: https://kanetgeek.github.io
