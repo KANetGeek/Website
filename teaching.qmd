@@ -1,0 +1,63 @@
+---
+title: "Teaching"
+date-modified: today
+toc: true
+toc-depth: 2
+---
+
+I teach across the methods and management curriculum at UIC, with regular courses at the undergraduate, master's, and doctoral levels. My teaching is animated by two commitments: that methods courses should be hands-on and grounded in students' own research questions, and that management courses should connect theoretical frameworks to the empirical realities of public and nonprofit organizations.
+
+## Current Courses
+
+### PPOL 230 — Nonprofit Organizations in U.S. Civil Society
+
+*Undergraduate, General Education.* An introduction to the role of nonprofit organizations in American civic life, examining how nonprofits emerge, how they are governed and funded, and how they interact with government and the private sector. Offered in person, hybrid, and asynchronous online formats.
+
+### PA 521 — Strategic Management: Planning and Measurement
+
+*Core requirement, Master of Public Administration and Master of Public Policy.* A foundations course in strategic planning, performance measurement, and management for public and nonprofit organizations. Offered in person, hybrid, and asynchronous online formats.
+
+### PA 544 — Qualitative Research Methods
+
+*Methods elective, advanced master's and doctoral students.* An applied course covering interviewing, observation, document analysis, coding, and analytic strategies for qualitative data, with an emphasis on rigor in qualitative inquiry. Offered in person and hybrid.
+
+### PA 541 — Advanced Data Analysis I: Regression Models
+
+*Required methods course, Master of Science in Civic Analytics, Master of Public Policy, and doctoral programs.* A graduate-level introduction to linear and generalized linear regression, with applied data analysis in R. Offered in person and hybrid.
+
+## Supplemental Teaching Materials
+
+I maintain several openly available teaching resources for graduate students and other instructors:
+
+- **Qualitative Comparative Analysis Tutorial.** Online synchronous course, lab exercises, and archived materials providing an overview of the logic and use of QCA in R.
+- Albrecht, K. (2021). *Longitudinal Network Analysis with RSiena.* Online supplement in Garson, D. G., *Data Analytics for the Social Sciences: Applications in R.* Routledge.
+- Albrecht, K., & Michnick, J. (2022). *Water for you and me, or water for us? Regional collaboration in drinking water systems.* E-PARCC Teaching Simulation. [Maxwell School, Syracuse University](https://www.maxwell.syr.edu/parcc/eparcc/cases). 2022 E-PARCC Teaching Simulation Award.
+
+## Doctoral Mentorship
+
+I serve on doctoral committees within UIC and at peer institutions, with sustained mentorship of students working at the intersection of public management, network science, and complexity. Recent and current dissertation committee membership includes:
+
+**At UIC**
+
+- Yufan Jiang, *Multi-disciplinary approach to sustainability planning for End-of-Life Electric Vehicle Battery Management* (2025–present)
+- Michael van Hulle, *When Contractors are Core: Structure, Centrality, and Power in Governance Networks* (2025–present)
+- Mashal-E-Zehra, *Examining Evolution of Governance Networks: Tie Dissolution in Context* (2024–present)
+- Derick Anderson, *Planning for Community in Public Housing* (2022–present)
+- Jun Li, Ph.D., *Multiplexity in Networks of Interlocal Agreements* (2022–2025)
+- Charles Van Hecke, Ph.D., *Elite Donor Behaviors* (2022–2025)
+- Saman Shafiq, Ph.D., *Publicness in Networks* (2022–2024)
+- Samuel Kurtz, Ph.D., *The Next Frontier: Inter-Institutional Dynamics in Regional Problem Solving* (2020–2022)
+- Victor Hugg, Ph.D., *Collaborative Governance and Public Education: Interlocal Networks and Student Outcomes* (2019–2020)
+
+**External**
+
+- Aneika Dickens, *Discovering the Lasting Power of PONs: PONs Influence on Organization Change.* North Carolina State University (2024–present).
+- Carolina Hernandez, Ph.D., *Epistemic Legitimacy in Regulatory Decision-Making During Energy Transition.* Northern Illinois University (2023–2025).
+
+## Teaching Recognition and Certifications
+
+- 2025 UIC Innovative Online Course Design Award. UIC Instructional Design and Media Production Studio.
+- 2024 Inclusive Education Scholars Certification. UIC Center for the Advancement of Teaching and Education.
+- 2022 Teaching Sustainability Initiative and Certification. UIC Office of Planning, Sustainability, and Project Management.
+- 2022 E-PARCC Teaching Simulation Award. Collaborative Governance Initiative, Maxwell School, Syracuse University.
+
