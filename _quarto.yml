@@ -7,8 +7,8 @@ project:
 website:
   title: "Kate Albrecht"
   description: "Assistant Professor of Public Policy, Management & Analytics, University of Illinois Chicago"
-  site-url: https://KAnetgeek.github.io/albrecht-website
-  repo-url: https://github.com/KAnetgeek/albrecht-website
+  site-url: https://KAnetgeek.github.io
+  repo-url: https://github.com/KAnetgeek/KAnetgeek.github.io
   repo-actions: [edit, issue]
   page-navigation: true
   back-to-top-navigation: true
