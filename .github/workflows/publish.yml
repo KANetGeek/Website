@@ -1,3 +1,8 @@
+- source: project
+  gh-pages:
+    - id: <some-id-string>
+      url: https://KAnetgeek.github.io/albrecht-website
+
 on:
   workflow_dispatch:
   push:
@@ -23,3 +28,5 @@ jobs:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          
