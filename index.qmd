@@ -1,11 +1,25 @@
 ---
-title: "Website files"
+title: "Kate Albrecht"
+about:
+  template: trestles
+  image: images/headshot.jpg
+  image-shape: rounded
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:kalbrech@uic.edu
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=WHqouCQAAAAJ&hl=en
+    - text: ORCID
+      href: https://orcid.org/0000-0002-7765-6986
+    - icon: github
+      text: GitHub
+      href: https://github.com/KAnetgeek
 ---
 
-This is a Quarto website.
+I am an Assistant Professor in the Department of Public Policy, Management, and Analytics at the University of Illinois Chicago. My research examines how purpose-oriented networks form, evolve, and produce outcomes across complex public service domains, with empirical attention to health service networks in Chicago and Cook County, drinking water governance across Illinois, and cross-sector collaboration in nonprofit-public partnerships.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I work primarily at the intersection of network theory, public management, and complexity science, with methodological commitments to longitudinal network analysis, qualitative comparative analysis, and inductive theory-building. My published work appears in *Public Management Review*, *American Review of Public Administration*, *Public Budgeting & Finance*, *Journal of Public Administration Research and Theory*, and elsewhere.
 
-```{r}
-1 + 1
-```
+Before joining UIC in 2019, I completed my Ph.D. in Public Administration at North Carolina State University. I currently teach graduate courses in qualitative research methods, regression analysis, and strategic management, as well as an undergraduate course on the role of nonprofits in U.S. civil society.

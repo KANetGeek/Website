@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Website files",
+    "title": "Kate Albrecht",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "I am an Assistant Professor in the Department of Public Policy, Management, and Analytics at the University of Illinois Chicago. My research examines how purpose-oriented networks form, evolve, and produce outcomes across complex public service domains, with empirical attention to health service networks in Chicago and Cook County, drinking water governance across Illinois, and cross-sector collaboration in nonprofit-public partnerships.\nI work primarily at the intersection of network theory, public management, and complexity science, with methodological commitments to longitudinal network analysis, qualitative comparative analysis, and inductive theory-building. My published work appears in Public Management Review, American Review of Public Administration, Public Budgeting & Finance, Journal of Public Administration Research and Theory, and elsewhere.\nBefore joining UIC in 2019, I completed my Ph.D. in Public Administration at North Carolina State University. I currently teach graduate courses in qualitative research methods, regression analysis, and strategic management, as well as an undergraduate course on the role of nonprofits in U.S. civil society.\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -180,5 +180,54 @@
     "title": "Drinking Water Governance",
     "section": "Collaborators",
     "text": "Collaborators\nDeborah Carroll, Laura Medwid, Christelle Khalaf (UIC Government Finance Research Center); Tom Skuzinski (Virginia Tech); Jason Michnick, Dan Huang, Jun Li (UIC)."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download the full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPh.D., Public Administration — North Carolina State University, 2019\nM.P.A., Public Administration — North Carolina State University, 2016\nB.S., Communications — University of Miami, 2006"
+  },
+  {
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "Curriculum Vitae",
+    "section": "Current Position",
+    "text": "Current Position\nAssistant Professor, Department of Public Policy, Management, and Analytics\nUniversity of Illinois Chicago, 2019–present"
+  },
+  {
+    "objectID": "cv.html#selected-recent-publications",
+    "href": "cv.html#selected-recent-publications",
+    "title": "Curriculum Vitae",
+    "section": "Selected Recent Publications",
+    "text": "Selected Recent Publications\nA complete list is on the publications page. Recent highlights include peer-reviewed work in Public Management Review, American Review of Public Administration, Public Budgeting & Finance, Utilities Policy, and Environmental Research: Water, alongside book chapters in handbooks published by Edward Elgar and SAGE."
+  },
+  {
+    "objectID": "cv.html#selected-awards",
+    "href": "cv.html#selected-awards",
+    "title": "Curriculum Vitae",
+    "section": "Selected Awards",
+    "text": "Selected Awards\n\n2025 UIC Innovative Online Course Design Award\n2022 E-PARCC Teaching Simulation Award, Maxwell School, Syracuse University\n2021 Charles Levine Best Paper Award, Academy of Management, Public-Nonprofit Division\n2019 Volker Junior Scholar Research Award, American Political Science Association"
+  },
+  {
+    "objectID": "cv.html#selected-funding",
+    "href": "cv.html#selected-funding",
+    "title": "Curriculum Vitae",
+    "section": "Selected Funding",
+    "text": "Selected Funding\n\n2025–2030 (under review). NSF CAREER (PI). Decision-Making and Risk Assessment in Purpose-Oriented Networks. $527,000.\n2026 (PI). Volker Alliance Accountability & Reform Research Consortium. Federal Funding Disruption in Chicago’s Health Services Ecosystem. $5,000.\n2022–2025 (Co-PI). UIC Government Finance Research Center, with Illinois Office of Management and Budget. Water Rate Study. $769,000.\n2024–2025 (PI). Institute for Policy and Civic Engagement Research Award. Empowering Purpose-Oriented Network Leaders and Funders for Sustainable Community Engagement. $19,000."
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\nAssociation leadership. Vice Chair, ASPA Section on Complexity & Network Studies (2026–2029); Conference Program Committee, PMRC 2026; Conference Program Committee, ARNOVA 2025; Doctoral Consortium Co-Chair, Academy of Management Public-Nonprofit Division (2022–2024).\nEditorship. Associate Editor, Complexity, Governance and Networks (2021–present).\nPeer review. Journal of Public Administration Research and Theory, Public Administration Review, Nonprofit and Voluntary Sector Quarterly, International Public Management Journal, State and Local Government Review, and others."
   }
 ]
