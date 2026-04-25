@@ -1,8 +1,3 @@
-- source: project
-  gh-pages:
-    - id: <some-id-string>
-      url: https://KAnetgeek.github.io/albrecht-website
-
 on:
   workflow_dispatch:
   push:
