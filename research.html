@@ -32,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -71,69 +69,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&amp;display=swap" rel="stylesheet">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <meta name="citation_title" content="Research">
 <meta name="citation_fulltext_html_url" content="https://KAnetgeek.github.io/research.html">
@@ -163,7 +103,7 @@ window.Quarto = {
 <meta name="citation_reference" content="citation_title=Unpacking informal partnerships and intangible resources in co-creation of community;,citation_author=Anne-Lise K Velez;,citation_author=Candice Pippin Bodkin;,citation_author=Kate R Albrecht;,citation_author=Anne Patrick;,citation_editor=Patsy Kraeger;,citation_editor=M. Rezaul Islam;,citation_editor=Rhonda Phillips;,citation_publication_date=2024;,citation_cover_date=2024;,citation_year=2024;,citation_isbn=1-0353-1245-X;,citation_inbook_title=Social (In) equality, Community Well-being and Quality of Life;">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -231,8 +171,7 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q2hpY2Fnbw==">Chicago <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z292ZXJuYW5jZQ==">governance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGVhbHRo">health <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SWxsaW5vaXM=">Illinois <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWV0aG9kcw==">methods <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV0d29ya3M=">networks <span class="quarto-category-count">(4)</span></div><div class="category" data-category="cHVibGljJTIwbWFuYWdlbWVudA==">public management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UUNB">QCA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cXVhbGl0YXRpdmU=">qualitative <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGhlb3J5">theory <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d2F0ZXI=">water <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -256,125 +195,154 @@ window.Quarto = {
 
 
 <p>My research examines how purpose-oriented networks — coalitions of public, nonprofit, and private organizations convened to address shared problems — form, evolve, and produce outcomes. Empirically, this work spans health service delivery in Chicago and Cook County and drinking water governance across Illinois. Theoretically, the work develops accounts of how networks adapt to environmental change, what shapes their resilience, and how purpose connects to outcome. Methodologically, I contribute to standards and tools for qualitative rigor, longitudinal network analysis, and configurational research.</p>
-<p>The work is supported by funding from the National Science Foundation (under review), the Volker Alliance, the Illinois Office of Management and Budget, the Illinois Innovation Network, and several internal UIC awards, and is conducted in collaboration with an international network of public administration and network science scholars.</p>
-<p>Active programs:</p>
+<p>The work is supported by funding from the National Science Foundation (under review), the Volcker Alliance, the Illinois Office of Management and Budget, the Illinois Innovation Network, and several internal UIC awards, and is conducted in collaboration with an international network of public administration and network science scholars.</p>
+<style>
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+  margin: 2rem 0;
+}
 
+.research-card {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1.35rem 1.35rem 1.1rem;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: border-color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+  color: inherit;
+}
 
+.research-card:hover {
+  border-color: #999;
+  background: #faf9f7;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  text-decoration: none;
+  color: inherit;
+}
 
+.research-card:hover .card-arrow {
+  transform: translate(3px, -3px);
+}
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV0d29ya3MlMkNoZWFsdGglMkNDaGljYWdv" data-listing-date-sort="1756684800000" data-listing-file-modified-sort="1777154322891" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/chicago-health-networks.html" class="no-external">Mapping Chicago and Cook County’s Health Networks</a>
-</h3>
-<div class="listing-categories">
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+}
 
-<div class="listing-category" onclick="window.quartoListingCategory('bmV0d29ya3M='); return false;">networks</div>
+.card-title {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #1a1a18;
+  line-height: 1.4;
+  margin: 0;
+  flex: 1;
+}
 
-<div class="listing-category" onclick="window.quartoListingCategory('aGVhbHRo'); return false;">health</div>
+.card-arrow {
+  font-size: 1rem;
+  color: #aaa;
+  transition: transform 0.15s ease;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
 
-<div class="listing-category" onclick="window.quartoListingCategory('Q2hpY2Fnbw=='); return false;">Chicago</div>
+.card-desc {
+  font-size: 0.875rem;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.tag {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  padding: 3px 8px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+.tag-teal  { background: #E1F5EE; color: #0F6E56; }
+.tag-blue  { background: #E6F1FB; color: #185FA5; }
+.tag-amber { background: #FAEEDA; color: #854F0B; }
+.tag-coral { background: #FAECE7; color: #993C1D; }
+</style>
+
+<div class="research-grid">
+
+  <a class="research-card" href="research/chicago-health-networks.html">
+    <div class="card-header">
+      <p class="card-title">Mapping Chicago &amp; Cook County's Health Networks</p>
+      <span class="card-arrow">↗</span>
+    </div>
+    <p class="card-desc">How purpose-oriented networks coordinate health service delivery in a region undergoing federal funding disruption.</p>
+    <div class="card-tags">
+      <span class="tag tag-teal">Networks</span>
+      <span class="tag tag-blue">Health</span>
+      <span class="tag tag-blue">Chicago</span>
+    </div>
+  </a>
+
+  <a class="research-card" href="research/across-the-pons.html">
+    <div class="card-header">
+      <p class="card-title">Purpose-Oriented Networks</p>
+      <span class="card-arrow">↗</span>
+    </div>
+    <p class="card-desc">A theoretical and empirical program examining how networks convened to address shared problems form, evolve, and produce outcomes.</p>
+    <div class="card-tags">
+      <span class="tag tag-teal">Networks</span>
+      <span class="tag tag-amber">Theory</span>
+      <span class="tag tag-amber">Public Management</span>
+    </div>
+  </a>
+
+  <a class="research-card" href="research/water-governance.html">
+    <div class="card-header">
+      <p class="card-title">Drinking Water Governance</p>
+      <span class="card-arrow">↗</span>
+    </div>
+    <p class="card-desc">How fragmented systems of drinking water provision shape affordability, equity, and regional collaboration across Illinois.</p>
+    <div class="card-tags">
+      <span class="tag tag-teal">Networks</span>
+      <span class="tag tag-blue">Water</span>
+      <span class="tag tag-blue">Illinois</span>
+      <span class="tag tag-coral">Governance</span>
+    </div>
+  </a>
+
+  <a class="research-card" href="research/network-evolution.html">
+    <div class="card-header">
+      <p class="card-title">Methods</p>
+      <span class="card-arrow">↗</span>
+    </div>
+    <p class="card-desc">Methodological scholarship on qualitative rigor, network analysis, and configurational research.</p>
+    <div class="card-tags">
+      <span class="tag tag-coral">Methods</span>
+      <span class="tag tag-coral">Qualitative</span>
+      <span class="tag tag-teal">Networks</span>
+      <span class="tag tag-amber">QCA</span>
+    </div>
+  </a>
 
 </div>
-<div class="delink listing-description"><a href="./research/chicago-health-networks.html" class="no-external">
-<p>How purpose-oriented networks coordinate health service delivery in a region undergoing federal funding disruption.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/chicago-health-networks.html" class="no-external">
-<div class="listing-date">
-September 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="bmV0d29ya3MlMkN0aGVvcnklMkNwdWJsaWMlMjBtYW5hZ2VtZW50" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1777154322892" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="415">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/purpose-oriented-networks.html" class="no-external">Purpose-Oriented Networks</a>
-</h3>
-<div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('bmV0d29ya3M='); return false;">networks</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('dGhlb3J5'); return false;">theory</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('cHVibGljJTIwbWFuYWdlbWVudA=='); return false;">public management</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/purpose-oriented-networks.html" class="no-external">
-<p>A theoretical and empirical program examining how networks convened to address shared problems form, evolve, and produce outcomes.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/purpose-oriented-networks.html" class="no-external">
-<div class="listing-date">
-June 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="bmV0d29ya3MlMkN3YXRlciUyQ0lsbGlub2lzJTJDZ292ZXJuYW5jZQ==" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1777154322892" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="485">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/water-goverance.html" class="no-external">Drinking Water Governance</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV0d29ya3M='); return false;">networks</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('d2F0ZXI='); return false;">water</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SWxsaW5vaXM='); return false;">Illinois</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z292ZXJuYW5jZQ=='); return false;">governance</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/water-goverance.html" class="no-external">
-<p>How fragmented systems of drinking water provision shape affordability, equity, and regional collaboration across Illinois.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/water-goverance.html" class="no-external">
-<div class="listing-date">
-March 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="bWV0aG9kcyUyQ3F1YWxpdGF0aXZlJTJDbmV0d29ya3MlMkNRQ0E=" data-listing-date-sort="1733011200000" data-listing-file-modified-sort="1777154322892" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/methods.html" class="no-external">Methods</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bWV0aG9kcw=='); return false;">methods</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cXVhbGl0YXRpdmU='); return false;">qualitative</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV0d29ya3M='); return false;">networks</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UUNB'); return false;">QCA</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/methods.html" class="no-external">
-<p>Methodological scholarship on qualitative rigor, network analysis, and configurational research.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/methods.html" class="no-external">
-<div class="listing-date">
-December 2024
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
