@@ -7,16 +7,19 @@ categories: [networks, theory, public management]
 
 ## Overview
 
-Purpose-oriented networks — coalitions of public, nonprofit, and private organizations convened to address shared problems — are the through-line of my scholarship. This program of work develops theoretical accounts of how such networks form and evolve, builds empirical evidence about what shapes their performance and survival, and contributes methodological tools for studying them.
+Purpose-oriented networks, which are coalitions of public, nonprofit, and private organizations convened to address shared problems, are the main through-line of my scholarship. This program of work develops theoretical accounts of how such networks form and evolve, builds empirical evidence about what shapes their performance and survival, and contributes methodological tools for studying them.
 
 Substantively, the work spans three connected questions. The first concerns the relationship between networks and their environments: how environmental conditions select for some network forms over others, how network domains evolve as ecological populations, and how context mechanisms shape network design and behavior. The second concerns network resilience: what configurational pathways allow networks to survive, what structural and functional antecedents predict adaptation, and how networks govern themselves under crisis. The third concerns the connections between purpose, process, and outcome: how logic-model dynamics translate network activities into substantive impact, and how strategic convening builds collective capacity.
 
-This program is conducted in close collaboration with an international community of network scholars, including the Purpose-Oriented Network Research Group (Raab, Sánchez, Nowell, Kapucu, Milward, Shumate, Tantardini), and produces both peer-reviewed scholarship and applied toolkits for practitioners.
+This program is conducted in close collaboration with an international community of network scholars, including the Across the PONs team science group (Raab, Siciliano, Sánchez, Nowell, Kapucu, Milward, Shumate, Tantardini), and produces both peer-reviewed scholarship and data collection instruments for researchers.
+
+*For PDFs of any Selected Works, please contact me at kalbrech@uic.edu*
 
 ## Selected Works
 
 **Peer-reviewed articles**
 
+- Kurtz, S., Shafiq, S., & Albrecht, K. (2025). Network Embeddedness and Monitoring Mechanisms in Government-Nonprofit Public Service Delivery Agreements. *The American Review of Public Administration*.
 - Nowell, B., & Albrecht, K. (2024). Purpose-oriented networks and their environment: A population ecology of network domains. *Public Management Review*, 26(8), 2218–2241.
 - Albrecht, K. (2022). Shapeshifting to address complexity: Advancing a typology of network evolution and transformation. *Complexity, Governance, & Networks*, 8(1), 25–40.
 - Nowell, B., Steelman, T., Velez, A.-L., & Albrecht, K. (2022). Co-management during crisis: Insights from jurisdictionally complex wildfires. *International Journal of Wildland Fire*, 31(5), 529–544.
