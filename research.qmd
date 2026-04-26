@@ -1,18 +1,154 @@
 ---
 title: "Research"
-listing:
-  contents: research
-  type: default
-  sort: "date desc"
-  categories: numbered
-  fields: [title, description, categories, date]
-  date-format: "MMMM YYYY"
-  page-size: 10
 toc: false
 ---
 
 My research examines how purpose-oriented networks — coalitions of public, nonprofit, and private organizations convened to address shared problems — form, evolve, and produce outcomes. Empirically, this work spans health service delivery in Chicago and Cook County and drinking water governance across Illinois. Theoretically, the work develops accounts of how networks adapt to environmental change, what shapes their resilience, and how purpose connects to outcome. Methodologically, I contribute to standards and tools for qualitative rigor, longitudinal network analysis, and configurational research.
 
-The work is supported by funding from the National Science Foundation (under review), the Volker Alliance, the Illinois Office of Management and Budget, the Illinois Innovation Network, and several internal UIC awards, and is conducted in collaboration with an international network of public administration and network science scholars.
+The work is supported by funding from the National Science Foundation (under review), the Volcker Alliance, the Illinois Office of Management and Budget, the Illinois Innovation Network, and several internal UIC awards, and is conducted in collaboration with an international network of public administration and network science scholars.
 
-Active programs:
+```{=html}
+<style>
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+  margin: 2rem 0;
+}
+
+.research-card {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1.35rem 1.35rem 1.1rem;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: border-color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+  color: inherit;
+}
+
+.research-card:hover {
+  border-color: #999;
+  background: #faf9f7;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  text-decoration: none;
+  color: inherit;
+}
+
+.research-card:hover .card-arrow {
+  transform: translate(3px, -3px);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.card-title {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #1a1a18;
+  line-height: 1.4;
+  margin: 0;
+  flex: 1;
+}
+
+.card-arrow {
+  font-size: 1rem;
+  color: #aaa;
+  transition: transform 0.15s ease;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.card-desc {
+  font-size: 0.875rem;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.tag {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  padding: 3px 8px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+.tag-teal  { background: #E1F5EE; color: #0F6E56; }
+.tag-blue  { background: #E6F1FB; color: #185FA5; }
+.tag-amber { background: #FAEEDA; color: #854F0B; }
+.tag-coral { background: #FAECE7; color: #993C1D; }
+</style>
+
+<div class="research-grid">
+
+  <a class="research-card" href="research/chicago-health-networks.html">
+    <div class="card-header">
+      <p class="card-title">Mapping Chicago &amp; Cook County's Health Networks</p>
+      <span class="card-arrow">↗</span>
+    </div>
+    <p class="card-desc">How purpose-oriented networks coordinate health service delivery in a region undergoing federal funding disruption.</p>
+    <div class="card-tags">
+      <span class="tag tag-teal">Networks</span>
+      <span class="tag tag-blue">Health</span>
+      <span class="tag tag-blue">Chicago</span>
+    </div>
+  </a>
+
+  <a class="research-card" href="research/across-the-pons.html">
+    <div class="card-header">
+      <p class="card-title">Purpose-Oriented Networks</p>
+      <span class="card-arrow">↗</span>
+    </div>
+    <p class="card-desc">A theoretical and empirical program examining how networks convened to address shared problems form, evolve, and produce outcomes.</p>
+    <div class="card-tags">
+      <span class="tag tag-teal">Networks</span>
+      <span class="tag tag-amber">Theory</span>
+      <span class="tag tag-amber">Public Management</span>
+    </div>
+  </a>
+
+  <a class="research-card" href="research/water-governance.html">
+    <div class="card-header">
+      <p class="card-title">Drinking Water Governance</p>
+      <span class="card-arrow">↗</span>
+    </div>
+    <p class="card-desc">How fragmented systems of drinking water provision shape affordability, equity, and regional collaboration across Illinois.</p>
+    <div class="card-tags">
+      <span class="tag tag-teal">Networks</span>
+      <span class="tag tag-blue">Water</span>
+      <span class="tag tag-blue">Illinois</span>
+      <span class="tag tag-coral">Governance</span>
+    </div>
+  </a>
+
+  <a class="research-card" href="research/network-evolution.html">
+    <div class="card-header">
+      <p class="card-title">Methods</p>
+      <span class="card-arrow">↗</span>
+    </div>
+    <p class="card-desc">Methodological scholarship on qualitative rigor, network analysis, and configurational research.</p>
+    <div class="card-tags">
+      <span class="tag tag-coral">Methods</span>
+      <span class="tag tag-coral">Qualitative</span>
+      <span class="tag tag-teal">Networks</span>
+      <span class="tag tag-amber">QCA</span>
+    </div>
+  </a>
+
+</div>
+```
