@@ -11,7 +11,6 @@ This community-based participatory research initiative examines how purpose-orie
 
 The project sits at the intersection of three concerns: the theoretical question of how networks adapt under environmental shocks, the empirical question of what Chicago and Cook County's health network actually looks like, and the practical question of how local network leaders and funders can build more sustainable community engagement. Outputs include a published structural map, ongoing analysis of pandemic-era and post-pandemic adaptation, and toolkits for network leaders developed in collaboration with practitioner partners.
 
-*For PDFs of any Selected Works, please contact me at kalbrech@uic.edu*
 
 ## Funding
 
@@ -31,4 +30,10 @@ The project sits at the intersection of three concerns: the theoretical question
 - Shumate, M., Zehra, M. E., & Albrecht, K. (2026). *Sustaining Healthy Cities Through Collaboration: Insights from Toolkits for Purpose-Oriented Networks.* Urban Affairs Association Conference, Chicago, IL.
 - Lal, Y., Zhang, S., & Albrecht, K. (2024). *Unveiling the Bridge Builders: Exploring Distinctive Traits of Bridging Nonprofits in Public Health Network Domains.* Association for Research on Nonprofit and Voluntary Action Conference, Washington, D.C.
 
+**Presentation PDFs**
+
+- [Risk, Resilience, and Decision-Making in Urban and Rural Health Networks](Presentations/UAA 2026 Risk.pdf) — Urban Affairs Association, 2026
+- [Purpose-Oriented Networks in Context: Network Domains](Presentations/UAA 2026 Network Domains.pdf) — Urban Affairs Association, 2026
+- [Sustaining Healthy Cities Through Collaboration: Toolkits for PONs](Presentations/UAA 2026 Toolkits.pdf) — Urban Affairs Association, 2026
+- [Pathways to Resilience: Structural and Functional Antecedents in PONs](Presentations/ASPA 2026 Resilience.pdf) — ASPA, 2026
  
